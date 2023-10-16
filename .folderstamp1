@@ -1,0 +1,122 @@
+This folder: /media/daniella/B/git/Video-Media/USVformat
+
+  File: ./1. USV-Format
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 1106016     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-16 00:22:37.795673400 -0300
+Modify: 2023-07-22 16:40:35.889151900 -0300
+Change: 2023-07-22 16:40:35.889151900 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./26726098.png.weborigin.txt
+  Size: 59        	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 1105882     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-17 20:30:15.231965800 -0300
+Modify: 2022-12-17 20:29:41.419444700 -0300
+Change: 2022-12-17 20:29:41.424457300 -0300
+ Birth: -
+IPFS hash: QmP4535RWsfnscagdEMyuefx6cKGSx15PAoUFEjuZ5vodi
+------------------------------
+  File: ./2. PoC-Player
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 1108667     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-16 00:22:37.892210600 -0300
+Modify: 2022-12-17 20:50:29.287306300 -0300
+Change: 2022-12-17 20:50:29.287306300 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./3. USV-Thumbnailer
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 125457      Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-16 17:20:26.037005000 -0300
+Modify: 2023-10-16 17:20:26.037005000 -0300
+Change: 2023-10-16 17:20:35.569800900 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./desktop.ini
+  Size: 101       	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 1105912     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-07-14 23:03:44.298658300 -0300
+Modify: 2019-08-04 18:21:52.000000000 -0300
+Change: 2022-12-17 20:30:49.349614200 -0300
+ Birth: -
+IPFS hash: QmRpqe1ve6goMb48ZxqKPU6sSxiMS6Pgv3Fu8sMTwLMEtp
+------------------------------
+  File: ./&meta
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 1429305     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-16 00:22:37.708101700 -0300
+Modify: 2023-08-27 02:16:53.046617300 -0300
+Change: 2023-08-27 02:16:53.046617300 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./UMRS -> unsupported reparse tag 0xa000000c
+  Size: 34        	Blocks: 0          IO Block: 4096   symbolic link
+Device: 8,20	Inode: 2341283     Links: 1
+Access: (0777/lrwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 23:13:45.355506100 -0300
+Modify: 2023-05-08 19:11:20.350675500 -0300
+Change: 2023-05-08 19:11:20.350675500 -0300
+ Birth: -
+IPFS hash: QmfUTfM3dAdxLYekjmJwbKXULaYVkxErqFXHw7fsD1Lud3
+------------------------------
+  File: ./usvformat.github.io - old, merge hd
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 1109559     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-07-19 13:12:36.237844600 -0300
+Modify: 2023-07-19 13:12:32.801691000 -0300
+Change: 2023-07-19 13:12:32.801691000 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./USV-Site.lnk
+  Size: 1146      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1105917     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-24 18:35:31.561740500 -0300
+Modify: 2018-10-16 14:24:12.000000000 -0300
+Change: 2022-12-17 20:30:49.383299300 -0300
+ Birth: -
+IPFS hash: QmPyRYChHTHrThZCJhaAGxNihdLq3hpiD9cnE3pQQoUH1x
+------------------------------
+  File: ./USV test.lnk
+  Size: 3436      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1105918     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-24 18:35:31.621341600 -0300
+Modify: 2020-01-28 13:32:15.597399000 -0300
+Change: 2022-12-17 20:30:49.387367000 -0300
+ Birth: -
+IPFS hash: QmSPHrj5LfXNgEEccGdz29D3dYQAFBXfDS9d98pu87GddS
+------------------------------
+  File: ./z-Socials
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 1543612     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-16 00:22:43.835963700 -0300
+Modify: 2023-07-19 12:37:05.035045200 -0300
+Change: 2023-07-19 12:43:54.360991500 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./z-study
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 1109429     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-16 00:22:43.894966600 -0300
+Modify: 2023-07-19 12:40:33.129055200 -0300
+Change: 2023-07-19 12:43:50.424484500 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
